@@ -1,0 +1,11 @@
+# Unreal auto-gen files
+*/Binaries
+*/Build
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+BuildingEscape/Content/StarterContent/
+
+# VS auto-gen files
+*.VC.db
+*.ipch
